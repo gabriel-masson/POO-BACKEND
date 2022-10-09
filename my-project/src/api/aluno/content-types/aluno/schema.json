@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "alunos",
+  "info": {
+    "singularName": "aluno",
+    "pluralName": "alunos",
+    "displayName": "aluno",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "id_plano": {
+      "type": "integer"
+    },
+    "cpf": {
+      "type": "string"
+    },
+    "nome": {
+      "type": "string"
+    }
+  }
+}

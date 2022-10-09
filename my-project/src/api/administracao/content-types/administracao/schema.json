@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "administracaos",
+  "info": {
+    "singularName": "administracao",
+    "pluralName": "administracaos",
+    "displayName": "administracao"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "caixa": {
+      "type": "float"
+    }
+  }
+}
